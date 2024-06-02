@@ -1,0 +1,12 @@
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 24px;
+    column-gap: 24px;
+    list-style-type: none;
+}
+
+img {
+    width: 360px;
+    height: 200px;
+}
